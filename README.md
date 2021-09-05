@@ -1,4 +1,4 @@
-# testvue
+# vue_bs5
 
 ## Project setup
 ```
